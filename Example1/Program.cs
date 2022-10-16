@@ -22,3 +22,6 @@ for (int i = 0; i < array.Length; i++)
 }
 Console.WriteLine();
 }
+
+Enumeration(arrayOne, arrayTwo);
+PrintArray(arrayTwo);
